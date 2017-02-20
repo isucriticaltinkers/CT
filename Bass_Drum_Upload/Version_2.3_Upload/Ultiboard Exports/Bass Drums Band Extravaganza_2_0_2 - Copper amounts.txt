@@ -1,0 +1,11 @@
+Ultiboard Information Export File
+
+Design Name  : Bass Drums Band Extravaganza_2_0_2 - Copper amounts
+Report Date  : 19 October 2016
+Report Time  : 16:56
+--------------------------------------------------------------------------------
+
+Layer                  Area[mil*mil]    Length[mil]     
+
+Copper Top             0.0000           15823.7249      
+Copper Bottom          0.0000           4587.3506       

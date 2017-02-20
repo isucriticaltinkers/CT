@@ -1,0 +1,22 @@
+ULTIBOARD DRILL REPORT
+
+Design: Bass Drums Band Extravaganza_2_0_2
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                                           LAMINATION
+Bass Drums Band Extravaganza_2_0_2 - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.0236    PTH      7
+   2   0.0420    PTH     16
+   3   0.0433    PTH      3

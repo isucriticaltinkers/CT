@@ -1,0 +1,23 @@
+Ultiboard Information Export File
+
+Design Name  : Bass Drums Band Extravaganza_2_0_2 - Bill of materials
+Report Date  : 19 October 2016
+Report Time  : 16:56
+--------------------------------------------------------------------------------
+
+VALUE        #    REFDES        FOOTPRINT       
+
+0.1uF        1    C1            RES_CAP_1206    
+0.68uF       2    C2,C3         RES_CAP_1206    
+0Ohm         1    SWITCH        Switch          
+1BH62        1    D2            DIOM5436X244AN  
+1M_R         1    R4            RES_CAP_1206    
+1k_R         1    R1            RES_CAP_1206    
+10Ohm        1    10_R          RESC3216X84N    
+ATMega 328   1    ATMEGA_328    Atmel_32A_TQFP  
+HDR1X2       5    3V_IN,12V_IN,PIEZO_1,PIEZO_2,STRIP HDR1X2          
+MC33375ST    1    3D3V_DC       SOT230P700X175-4N
+MM3Z3V0T1G   1    ZENER         SOD2512X110N    
+NET_6        1    U5            HDR2X3_CEN      
+NET_6        1    N_MOS         N-Mosfet        
+NET_6        1    P_MOS         P-MOSFET_20V    
